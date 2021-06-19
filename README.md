@@ -3,11 +3,8 @@ Switch to the Master Branch to view the project files, and find the datasets use
 ## ABOUT THE PROJECT:
 
 ```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+The project has been designed for medical purpsosed to diagnose the specified diseases:
+Brain
 ```
 
 
