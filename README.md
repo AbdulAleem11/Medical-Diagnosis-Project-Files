@@ -13,3 +13,7 @@ Stroke Prediction: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 Urine Disorder Diagnosis : https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
 COVID DATASET CITATION IS NOT POSSIBLE BECAUSE OF SOME COPYRIGHT ISSUES, MEANWHILE YOU CAN FIND SIMILAR ON KAGGLE
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
