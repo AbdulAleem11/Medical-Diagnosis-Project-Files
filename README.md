@@ -1,5 +1,18 @@
 Switch to the Master Branch to view the project files, and find the datasets used in the project at the folowing links:
-LINK FOR DATASETS:
+
+## ABOUT THE PROJECT:
+
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
+
+
+## LINK FOR DATASETS:
+
 Brain Heammorhage: https://www.kaggle.com/c/unibuc-2019-m2-cv/data .
 
 Breast Cancer:https://www.kaggle.com/uciml/breast-cancer-wisconsin-data .
@@ -27,4 +40,4 @@ COVID DATASET CITATION IS NOT POSSIBLE BECAUSE OF SOME COPYRIGHT ISSUES, MEANWHI
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+
