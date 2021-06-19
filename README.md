@@ -5,6 +5,7 @@ Switch to the Master Branch to view the project files, and find the datasets use
 The project has been designed for medical purpsosed to diagnose the following:
 Brain Heammorhage, Breast Cancer, Diabetes, COVID, Heart Failure, Hypertension, Plantar Fascitis, Malaria, Stroke, Urinary infections
 It could also be used for Echocardiogram Analysis as well as Fertility Analysis.
+The files used for deploymeny could be found at the repository link : https://github.com/AbdulAleem11/Medical-Diagnosis-Deployment
 
 
 
