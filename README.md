@@ -2,13 +2,11 @@ Switch to the Master Branch to view the project files, and find the datasets use
 
 ## ABOUT THE PROJECT:
 
-```python
-
 The project has been designed for medical purpsosed to diagnose the following:
 Brain Heammorhage, Breast Cancer, Diabetes, COVID, Heart Failure, Hypertension, Plantar Fascitis, Malaria, Stroke, Urinary infections
 It could also be used for Echocardiogram Analysis as well as Fertility Analysis.
 
-```
+
 
 
 ## LINK FOR DATASETS:
